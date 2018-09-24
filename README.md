@@ -8,7 +8,6 @@ Find peak areas in location series
 ### Checkout the latest release of FindPeek from GitHub
 ```git clone git@github.com:yiliu4234/FindPeek.git```
 ### Install R dependencies (in R)
- ## install from CRAN
  ```install.packages("data.table") # version > 1.10.4```
 
 ### Install the FindPeek package
