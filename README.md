@@ -11,6 +11,6 @@ Find peak areas in location series
  ```install.packages("data.table") # version > 1.10.4```
 
 ### Install the FindPeek package
-from the command line and in the directory where ichorCNA github was cloned.
+from the command line and in the directory where FindPeek github was cloned.
 ```R CMD INSTALL FindPeek ```
 
