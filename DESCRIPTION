@@ -1,0 +1,14 @@
+Package: FindPeek
+Type: Package
+Title: Find peak areas in location series
+Version: 0.1.0
+Author: ywliao
+Maintainer: ywliao <ywliao2015@gmail.com>
+Description: The first method is to judge the region as a peak according to the continuous rise and fall. 
+ The second method is to give a background value (CutMethod = T). If it is higher than the background
+ value continuously, the region is considered as a peak. The background value can be given manually or
+ automatically generated according to the maximum value
+License: DaLian Medical University
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
