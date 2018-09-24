@@ -6,7 +6,7 @@ Find peak areas in location series
  automatically generated according to the maximum value 
 ## installation
 ### Checkout the latest release of FindPeek from GitHub
-```https://github.com/yiliu4234/FindPeek.git```
+```git clone https://github.com/yiliu4234/FindPeek.git```
 ### Install R dependencies (in R)
  ```install.packages("data.table") # version > 1.10.4```
 
