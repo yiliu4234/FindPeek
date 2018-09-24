@@ -5,7 +5,7 @@ Find peak areas in location series
  value continuously, the region is considered as a peak. The background value can be given manually or 
  automatically generated according to the maximum value 
 ## installation
-### Checkout the latest release of ichorCNA from GitHub
+### Checkout the latest release of FindPeek from GitHub
 ```git clone git@github.com:yiliu4234/FindPeek.git```
 ### Install R dependencies (in R)
  ## install from CRAN
